@@ -1,5 +1,5 @@
 # boot.dev Courses
-Learn to program with https://www.boot.dev/
+https://www.boot.dev/
 
 ## Completed Courses
 This is a list of all my completed projects, organised by the most recent one.
