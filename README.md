@@ -4,14 +4,16 @@ https://www.boot.dev/
 ## Course In Progress
 This is the project I am currently working on
 
-### Asteroids
-https://www.boot.dev/courses/build-asteroids-python
-
-Using Python and OOP principles to make a simple arcade game abour firing my laser.
+Looking through the course guide currently
 
 
 ## Completed Courses
 This is a list of all my completed projects, organised by the most recent one.
+
+### Asteroids
+https://www.boot.dev/courses/build-asteroids-python
+
+Using Python and OOP principles to make a simple arcade game abour firing my laser.
 
 ### Learn Git - 2026/08/23
 https://www.boot.dev/courses/learn-git
