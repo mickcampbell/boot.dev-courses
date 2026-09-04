@@ -10,7 +10,7 @@ Looking through the course guide currently
 ## Completed Courses
 This is a list of all my completed projects, organised by the most recent one.
 
-### Asteroids
+### Asteroids - 2026/09/04
 https://www.boot.dev/courses/build-asteroids-python
 
 Using Python and OOP principles to make a simple arcade game abour firing my laser.
